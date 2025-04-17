@@ -1,8 +1,7 @@
 ---
 title: "STAT 228: Mini Project 2"
 author: "Zoe P Habel"
-date: "`r Sys.Date()`"
-output: html_notebook
+output: github_document
 ---
 
 # Data Cleaning + Wrangling in R
