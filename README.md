@@ -1,4 +1,5 @@
-# Hello ! 
+# The Joys of Data Wrangling: A Tutorial using Stats from Alone Contestants
+## Hello ! 
 
 This is the source code for the second mini project I completed for STAT 228: Intro to Data Science at Simmons University. 
 The aim for this project was to give a tutorial detailing the data cleaning and wrangling process with dplyr functions. I chose to use a data set
